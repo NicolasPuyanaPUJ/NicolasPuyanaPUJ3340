@@ -12,14 +12,14 @@
 
 
 
-####**Autor: Nicolas Puyana**
-####**ID: 20563671**
-####**Curso: 3340**
-####**Fecha: 12 de Febrero de 2026**
+#### **Autor: Nicolas Puyana**
+#### **ID: 20563671**
+#### **Curso: 3340**
+#### **Fecha: 12 de Febrero de 2026**
 
 <br>
 
-##Contenido 
+## Contenido 
 
 1. Cadenas
 2. Tuplas
@@ -40,7 +40,7 @@
 
 <br>
 
-##Metodologia
+## Metodologia
 
 
 
